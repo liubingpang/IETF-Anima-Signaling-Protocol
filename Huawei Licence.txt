@@ -1,0 +1,27 @@
+HUAWEI Software License Agreement for GDNP protocol implementation software
+This GDNP protocol implementation software ("SOFTWARE") is supplied to YOU by Huawei Technologies Co., Ltd. ("HUAWEI") in consideration of your agreement to the following terms, and your use, installation of this SOFTWARE constitutes acceptance of these terms. If YOU do not agree with these terms, please do not use, install this SOFTWARE.
+1. GRANT OF LICENSE
+In consideration of your agreement to abide by the following terms, HUAWEI hereby grants YOU, a non-transferable, non-exclusive, royalty-free, worldwide copyright license (without the right to sublicense) to use the SOFTWARE solely for the evaluation purpose.
+All rights to the SOFTWARE and all intellectual property rights contained therein shall remain the sole and exclusive property of HUAWEI. Except as expressly licensed in Clause 1, in no event shall the licenses granted in Clause 1 be construed as granting YOU expressly or by implication, estoppels or otherwise, licenses to any intellectual property rights, including but not limited to patent rights, copyrights, trademark or trade secret in the SOFTWARE.
+No right is granted to YOU under this Agreement to manufacture, have manufactured, or sell, supply or distribute any products which have taken into use or which embody any of the SOFTWARE or any of the intellectual property rights embodied therein.
+
+2. RESTRICTIONS
+YOU shall not remove or obscure any notice incorporated by HUAWEI in the SOFTWARE to protect HUAWEI¡¯s intellectual property rights embodied therein.
+YOU may not decompile, disassemble, or reverse engineer the SOFTWARE. YOU acknowledge that the SOFTWARE is not developed or intended for use in any inherently dangerous applications, including applications that may create a risk of personal injury. If YOU use the SOFTWARE in dangerous applications, then YOU shall be responsible to take all appropriate fail-safe, backup, redundancy, and other measures to ensure its safe use. HUAWEI disclaims any express or implied warranty of fitness for such uses.
+
+3.NO WARRANTY
+THE SOFTWARE IS PROVIDED BY HUAWEI ON AN "AS IS" BASIS. HUAWEI MAKES NO WARRANTY, EITHER EXPRESSED OR IMPLIED, WITH RESPECT TO ANY OF THE SOFTWARE, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT.
+
+4.NO LIABILITY
+PLEASE READ THE AGREEMENT COMPLETELY, AND PLEASE NOTE THAT YOU SHOULD USE THE SOFTWARE AT YOUR OWN RISK.
+IN NO EVENT SHALL HUAWEI BE LIABLE FOR ANY DIRECT OR INDIRECT, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) ARISING IN ANY WAY OUT OF THE USE, OR MODIFICATION OF THE SOFTWARE, HOWEVER CAUSED AND WHETHER UNDER THEORY OF CONTRACT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY OR OTHERWISE, EVEN IF HUAWEI HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. EVEN IF THE SOFTWARE HAS ANY MATERIAL, VERIFIABLE, AND REPRODUCIBLE PROGRAM ERRORS, HUAWEI SHALL HAVE NO LIABILITY TO MODIFY SUCH ERRORS.
+
+5.TERMINATION OF THE LICENSE
+This Agreement is effective until terminated. HUAWEI may terminate this Agreement at any time with or without any cause. Upon such termination, YOU shall immediately stop using and destroy all copies of the SOFTWARE.
+
+6.GENERAL
+Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction shall be ineffective to the extent of such prohibition or unenforceability without affecting, impairing or invalidating the remaining provisions hereof.
+This Agreement shall be governed by and construed in accordance with the laws of China, without reference to the principles of conflicts of laws. Any dispute arising out of or relating to this Agreement shall be submitted to Shenzhen Longgang District People¡¯s court and parties waive all objections to that jurisdiction and venue.
+
+---------------------------------------------------------------------
+Copyright (C) 2015 Huawei Technologies Co., Ltd. All rights reserved.
